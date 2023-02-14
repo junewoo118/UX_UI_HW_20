@@ -1,0 +1,39 @@
+body {
+    background-color: whitesmoke;
+}
+
+.jumbotron {
+    border: 4pt black solid;
+    border-radius: 0%;
+    margin: 20px auto;
+    max-width: 1400px;
+    background-color: peachpuff;
+}
+
+.display-4 {
+    font-weight: 800;
+    color: black;
+}
+
+.btn {
+    background-color: none;
+    border: none;
+    color: black;
+}
+
+.category {
+    font-weight: 800;
+    margin: none;
+}
+
+.categoryInfo {
+    margin: none;
+    padding: none;
+}
+
+.accordion {
+    background-color: whitesmoke;
+    border: 4pt solid black;
+    max-width: 1400px;
+    margin: 20px auto;
+}
